@@ -1,7 +1,8 @@
 Project: go_to_gdtype
 ------------------------
 
-This package is used to binary serialize Go variables to GDScript.
+This package is used to binary serialize Go variables to GDScript (Godot). Can be used to transport tcp packets and unserialize with ```get_var``` function
+in Godot GDScript native function.
 
 Supported variables:
 
