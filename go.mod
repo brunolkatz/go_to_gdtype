@@ -1,4 +1,4 @@
-module go_to_godottypes
+module go_to_gdtype
 
 go 1.15
 
