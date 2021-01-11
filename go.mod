@@ -1,4 +1,4 @@
-module go_to_gdtype
+module github.com/kidjapa/go_to_gdtype
 
 go 1.15
 
